@@ -12,15 +12,15 @@ Com a participação de diversas temporadas do maior torneio de robótica para p
 
 ## Projetos:
 
-#### Análise de Complexidade
+**Análise de Complexidade: https://bit.ly/2V0a6HC**
 
-#### Preço da Casa
+**Preço da Casa: https://bit.ly/2TJubl5**
 
-#### Análise do vestibular PISM 
+**Análise do vestibular PISM - [Insigths](https://bit.ly/3idyKxk): https://bit.ly/3BNEAx8 **
 
-#### Desafio do Titanic
+**Desafio do Titanic: https://bit.ly/3rJCha0**
 
-#### Imersão Dados
+**Imersão Dados: https://bit.ly/3A3CCY3**
 
 ---
 

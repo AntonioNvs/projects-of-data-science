@@ -12,9 +12,9 @@ Com a participação de diversas temporadas do maior torneio de robótica para p
 
 ## Projetos:
 
-**Análise de Complexidade: https://bit.ly/2V0a6HC**
+**Análise de Complexidade de frases em inglês: https://bit.ly/2V0a6HC**
 
-**Preço da Casa: https://bit.ly/2TJubl5**
+**Desafio Preço da Casa: https://bit.ly/2TJubl5**
 
 **Análise do vestibular PISM [Insigths](https://bit.ly/3idyKxk) - https://bit.ly/3BNEAx8**
 

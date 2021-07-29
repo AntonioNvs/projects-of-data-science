@@ -7,7 +7,7 @@ Construo análises de dados e modelos preditivos em Python, além de mainupar e 
 
 Com a participação de diversas temporadas do maior torneio de robótica para pré-universitários do mundo, a FLL, juntamente com a conquista de medalhas em olimpíadas científicas, desenvolvi habilidades analíticas e trabalho em equipe, além de valores como esforço e resiliência. Busco sempre resolver problemas da maneira mais prática e inovadora a partir da programação.
 
-**Background in:** Python, SQL, Machine Learning, Web Scraping e Automação**.
+**Background in:** Python, SQL, Machine Learning, Web Scraping e Automação.
 
 **[LinkedIn](https://www.linkedin.com/in/antonio-caetano-neves/)**
 

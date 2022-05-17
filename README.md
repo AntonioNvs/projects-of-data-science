@@ -22,7 +22,7 @@ Com a participação de diversas temporadas do maior torneio de robótica para p
 
 **Desafio do Titanic: https://bit.ly/3rJCha0**
 
-**Revivendo os Beatles: [Clqiue aqui](https://github.com/AntonioNvs/reviving-beatles)
+**Revivendo os Beatles: [Clique aqui](https://github.com/AntonioNvs/reviving-beatles)**
 
 **Imersão Dados: https://bit.ly/3A3CCY3**
 
